@@ -6,3 +6,10 @@
 
 <p align="center">Boilerplate for <a href="https://nestjs.com/" target="_blank">NestJS</a> Framework using <a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a> Database.</p>
 
+## Packages
+
+- [nestjs](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications.
+- [pg](https://github.com/brianc/node-postgres) - Non-blocking PostgreSQL client for Node.js. Pure JavaScript and optional native libpq bindings.
+- [knex](https://github.com/knex/knex) - A batteries-included, multi-dialect (PostgreSQL, MySQL, CockroachDB, MSSQL, SQLite3, Oracle (including Oracle Wallet Authentication)) query builder for Node.js.
+- [objection.js](https://github.com/vincit/objection.js) - An ORM for Node.js that aims to stay out of your way and make it as easy as possible to use the full power of SQL and the underlying database engine while still making the common stuff easy and enjoyable.
+- [jest](https://github.com/jestjs/jest) - A delightful JavaScript Testing Framework with a focus on simplicity.
