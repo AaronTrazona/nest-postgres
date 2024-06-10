@@ -1,12 +1,11 @@
 version: "3"
 
 services:
-  dbMatchder:
-    image: supabase/postgres
+  db:
+    image: postgres
     restart: always
     ports:
       - "5432:5432"
-    command: postgres -c config_file=/etc/postgresql/postgresql.conf 
     environment:
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: ${POSTGRES_DB}
