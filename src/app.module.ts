@@ -4,13 +4,11 @@ import { BasicAuthGuard } from './guards/basic.guard';
 import { postgresFactory } from './databases/postgres';
 import { ConfigModule } from '@nestjs/config';
 import { UsersModule } from './modules/users/users.module';
-import { AuthModule } from './modules/auth/auth.module';
 
 @Module({
   imports: [
     ConfigModule.forRoot(),
     UsersModule,
-    AuthModule,
   ],
   providers: [
     {

@@ -6,11 +6,9 @@ export class BaseModel extends Model {
   @ApiProperty()
   id: string;
 
-  @ApiProperty({ name: 'updated_at' })
-  @Expose({ name: 'updated_at' })
+  @ApiProperty({ name: 'updatedAt' })
   updatedAt: string;
 
-  @ApiProperty({ name: 'created_at' })
-  @Expose({ name: 'created_at' })
+  @ApiProperty({ name: 'createdAt' })
   createdAt: string;
 }
