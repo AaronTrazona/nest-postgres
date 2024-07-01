@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-  <img src="https://drive.google.com/file/d/1iY63L4MhS87UgF-eCEq0HaRnroPsuXVM/view?usp=drive_link" width="100">
+  <img src="https://raw.githubusercontent.com/AaronTrazona/nest-postgres/main/images/plus.jpeg" width="100">
   <a href="https://nestjs.com/" target="blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" alt="Postgres Logo" /></a>
 </p>
 
@@ -32,7 +32,7 @@ This command will create `.env` file and copy whatever on `.env.example`. Open `
 
 To setup tables and seeds (populate your database with test data or initial data) using <a href="https://knexjs.org/guide/migrations.html#migration-cli" target="_blank">knex</a> migrations.
 On the project, there is a folder called `databases` on the first level<br/>
-<img src="https://drive.google.com/file/d/1iY63L4MhS87UgF-eCEq0HaRnroPsuXVM/view" width="150"> <br/>
+<img src="https://raw.githubusercontent.com/AaronTrazona/nest-postgres/main/images/migrate.png" width="150"> <br/>
 
 I made a sample migrations and seeds, To migrate this sample migrations this is command:
 
