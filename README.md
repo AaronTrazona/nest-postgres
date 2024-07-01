@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-  <img src="https://private-user-images.githubusercontent.com/1627816/338231690-fe856215-db34-47f6-8ba1-9e3634f7d337.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3ODc1NzQsIm5iZiI6MTcxODc4NzI3NCwicGF0aCI6Ii8xNjI3ODE2LzMzODIzMTY5MC1mZTg1NjIxNS1kYjM0LTQ3ZjYtOGJhMS05ZTM2MzRmN2QzMzcuanBlZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE5VDA4NTQzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1OTY5Njk4NzMyNzI5MjU0Y2UxODZjMjI4MTBmMjUxZDJmNmNhMjViYTNmYzRjNzI1YTNkYWRiMTdlY2MyY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.J9rrvUv8FhudHwhiJgiQr63vouyrWyy6wSkNzr8I4g0" width="100">
+  <img src="https://drive.google.com/file/d/1iY63L4MhS87UgF-eCEq0HaRnroPsuXVM/view?usp=drive_link" width="100">
   <a href="https://nestjs.com/" target="blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" alt="Postgres Logo" /></a>
 </p>
 
@@ -32,7 +32,7 @@ This command will create `.env` file and copy whatever on `.env.example`. Open `
 
 To setup tables and seeds (populate your database with test data or initial data) using <a href="https://knexjs.org/guide/migrations.html#migration-cli" target="_blank">knex</a> migrations.
 On the project, there is a folder called `databases` on the first level<br/>
-<img src="https://private-user-images.githubusercontent.com/1627816/340964536-40081135-a3b0-42ff-852c-e3617055d5dc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3ODc1NzQsIm5iZiI6MTcxODc4NzI3NCwicGF0aCI6Ii8xNjI3ODE2LzM0MDk2NDUzNi00MDA4MTEzNS1hM2IwLTQyZmYtODUyYy1lMzYxNzA1NWQ1ZGMucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDYxOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA2MTlUMDg1NDM0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTczMmRmOWFhZDBkNTgyMDk2ZDQ4ZDY3MzJiODE0MGFiMjVjNDIzNDkzZmUxZWZjZWZkMDNlMTM5Yjc5ZGJkNiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.-jDquio7cqOgLl_1iDzS6jyhOnlW-0sspbEZpjxL9BE" width="150"> <br/>
+<img src="https://drive.google.com/file/d/1iY63L4MhS87UgF-eCEq0HaRnroPsuXVM/view" width="150"> <br/>
 
 I made a sample migrations and seeds, To migrate this sample migrations this is command:
 
